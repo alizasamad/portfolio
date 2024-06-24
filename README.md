@@ -10,7 +10,7 @@
 
 ### Projects
 ---
-```
-print("Hello World")
-
+```python
+for x in range(6):
+  print("Hello World")
 ```
